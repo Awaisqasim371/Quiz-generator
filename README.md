@@ -1,7 +1,6 @@
 #AI Quiz-generator
 AA Quiz generator helps students to make multiple choice questions of a topic. Click on the link here
-[Quiz generator](https://g.co/gemini/share/b21ac04f8e8c)
-
+[Quiz generator](https://gemini.google.com/share/042585410111)
 
 
 
